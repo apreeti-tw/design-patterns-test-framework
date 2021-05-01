@@ -6,5 +6,10 @@
   {
     "origin": "CCU",
     "destination": "BOM"
+  },
+  ,
+  {
+    "origin": "DEL",
+    "destination": "BLR"
   }
 ]
